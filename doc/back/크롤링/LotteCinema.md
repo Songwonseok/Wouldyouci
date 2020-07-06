@@ -13,9 +13,9 @@
 
 ## 상영 시간표
 
-![Lotte%20Cinema%205a267d9c280449f795f53d121bd95d6d/Untitled.png](Lotte%20Cinema%205a267d9c280449f795f53d121bd95d6d/Untitled.png)
+![Lotte%20Cinema%205a267d9c280449f795f53d121bd95d6d/Untitled.png](../../images/Untitled.png)
 
-![Lotte%20Cinema%205a267d9c280449f795f53d121bd95d6d/Untitled%201.png](Lotte%20Cinema%205a267d9c280449f795f53d121bd95d6d/Untitled%201.png)
+![Lotte%20Cinema%205a267d9c280449f795f53d121bd95d6d/Untitled%201.png](../../images/Untitled%201.png)
 
 - 클래스 선언이 생각보다 잘되어있는 느낌
 - 영화 코드는 자체 코드인 듯 함..
