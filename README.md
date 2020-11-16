@@ -96,7 +96,7 @@
 
 
 
-### 소개 영상
+### 소개 영상 (이미지 클릭)
 
 [![Video Label](./doc/images/ucc.png)](https://www.youtube.com/watch?v=NPzVjKgW7Vo)
 
